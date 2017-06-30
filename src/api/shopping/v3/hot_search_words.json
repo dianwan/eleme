@@ -1,0 +1,92 @@
+[
+    {
+        "is_highlight": 0,
+        "link": "",
+        "search_word": "刀削面",
+        "source": "3",
+        "type": 1,
+        "url": "",
+        "word": "刀削面"
+    },
+    {
+        "is_highlight": 0,
+        "link": "",
+        "search_word": "便当",
+        "source": "3",
+        "type": 1,
+        "url": "",
+        "word": "便当"
+    },
+    {
+        "is_highlight": 0,
+        "link": "",
+        "search_word": "提拉米苏",
+        "source": "3",
+        "type": 1,
+        "url": "",
+        "word": "提拉米苏"
+    },
+    {
+        "is_highlight": 0,
+        "link": "",
+        "search_word": "烧鹅",
+        "source": "3",
+        "type": 1,
+        "url": "",
+        "word": "烧鹅"
+    },
+    {
+        "is_highlight": 0,
+        "link": "",
+        "search_word": "我的菜",
+        "source": "4",
+        "type": 1,
+        "url": "",
+        "word": "我的菜"
+    },
+    {
+        "is_highlight": 0,
+        "link": "",
+        "search_word": "玉米粒",
+        "source": "3",
+        "type": 1,
+        "url": "",
+        "word": "玉米粒"
+    },
+    {
+        "is_highlight": 0,
+        "link": "",
+        "search_word": "罗森",
+        "source": "3",
+        "type": 1,
+        "url": "",
+        "word": "罗森"
+    },
+    {
+        "is_highlight": 0,
+        "link": "eleme://restaurant?restaurant_id=1087121&target_food_id=0&type=0",
+        "search_word": "家有好面",
+        "source": "3",
+        "type": 2,
+        "url": "",
+        "word": "家有好面"
+    },
+    {
+        "is_highlight": 0,
+        "link": "",
+        "search_word": "沪小胖",
+        "source": "3",
+        "type": 1,
+        "url": "",
+        "word": "沪小胖"
+    },
+    {
+        "is_highlight": 0,
+        "link": "eleme://restaurant?restaurant_id=1001594&target_food_id=0&type=0",
+        "search_word": "公仔面",
+        "source": "3",
+        "type": 2,
+        "url": "",
+        "word": "公仔面"
+    }
+]

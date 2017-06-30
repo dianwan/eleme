@@ -1,0 +1,45 @@
+{
+  "name": "eleme",
+  "version": "0.0.1",
+  "description": "低仿h5.ele.me",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack-dev-server --host 0.0.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dianwan/eleme.git"
+  },
+  "author": "342180@qq.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dianwan/eleme/issues"
+  },
+  "homepage": "https://github.com/dianwan/eleme#readme",
+  "devDependencies": {
+    "babel-core": "^6.25.0",
+    "babel-loader": "^7.1.0",
+    "babel-plugin-transform-runtime": "^6.23.0",
+    "babel-preset-env": "^1.5.2",
+    "babel-preset-stage-0": "^6.24.1",
+    "css-loader": "^0.28.4",
+    "extract-text-webpack-plugin": "^2.1.2",
+    "html-webpack-plugin": "^2.28.0",
+    "less": "^2.7.2",
+    "less-loader": "^4.0.4",
+    "style-loader": "^0.18.2",
+    "url-loader": "^0.5.9",
+    "vue-loader": "^12.2.1",
+    "vue-style-loader": "^3.0.1",
+    "vue-template-compiler": "^2.3.4",
+    "webpack": "^3.0.0",
+    "webpack-dev-server": "^2.5.0"
+  },
+  "dependencies": {
+    "axios": "^0.16.2",
+    "vue": "^2.3.4",
+    "vue-awesome-swiper": "^2.5.0",
+    "vue-router": "^2.6.0",
+    "vuex": "^2.3.1"
+  }
+}
